@@ -6,6 +6,9 @@ TagManager:
   tags:
   - CinemachineTarget
   - npc
+  - enemy
+  - weapon
+  - dead
   layers:
   - Default
   - TransparentFX
@@ -13,7 +16,7 @@ TagManager:
   - 
   - Water
   - UI
-  - 
+  - enemy
   - 
   - 
   - 
